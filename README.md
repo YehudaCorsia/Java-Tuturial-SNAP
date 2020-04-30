@@ -1,5 +1,7 @@
 # Java-Tuturial-SNAP
  snap כאן נשתף את הקוד מהמדריך גאווה שנמצא ביוטיוב של
+ 
+ 
 https://www.youtube.com/watch?v=KDuse0mmTm4
 
 מוזמנים להעיר ולהוסיף עוד קטעים שחסרים.
